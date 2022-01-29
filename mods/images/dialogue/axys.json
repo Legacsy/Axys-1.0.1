@@ -1,0 +1,63 @@
+{
+	"position": [
+		0,
+		50
+	],
+	"dialogue_pos": "left",
+	"scale": 1.3,
+	"image": "axys_Dialoge",
+	"animations": [
+		{
+			"loop_name": "axys_Dialoge normal_Intro",
+			"idle_offsets": [
+				-140,
+				60
+			],
+			"idle_name": "axys_Dialoge IDLEN",
+			"anim": "normal",
+			"loop_offsets": [
+				-140,
+				60
+			]
+		},
+		{
+			"loop_name": "axys_Dialoge angry_loop",
+			"idle_offsets": [
+				-140,
+				50
+			],
+			"idle_name": "axys_Dialoge angry_loop",
+			"anim": "angry",
+			"loop_offsets": [
+				-140,
+				50
+			]
+		},
+		{
+			"loop_name": "axys_Dialoge pissed_loop",
+			"idle_offsets": [
+				-110,
+				60
+			],
+			"idle_name": "axys_Dialoge pissed_loop",
+			"anim": "pissed",
+			"loop_offsets": [
+				-110,
+				60
+			]
+		},
+		{
+			"loop_name": "axys_Dialoge ugh_Intro",
+			"idle_offsets": [
+				-140,
+				60
+			],
+			"idle_name": "axys_Dialoge IDLEUGH",
+			"anim": "ugh",
+			"loop_offsets": [
+				-140,
+				60
+			]
+		}
+	]
+}
