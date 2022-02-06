@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="menu_donate.png"><SubTexture name="donate basic0000" x="0" y="0" width="2367" height="299" frameX="0" frameY="0" frameWidth="2367" frameHeight="299" />
+<SubTexture name="donate white0000" x="2367" y="0" width="2367" height="299" frameX="0" frameY="0" frameWidth="2367" frameHeight="299" />
+<SubTexture name="donate white0001" x="4734" y="0" width="2367" height="299" frameX="0" frameY="0" frameWidth="2367" frameHeight="299" />
+<SubTexture name="donate white0002" x="0" y="299" width="2367" height="299" frameX="0" frameY="0" frameWidth="2367" frameHeight="299" />
+<SubTexture name="donate white0003" x="2367" y="299" width="2367" height="299" frameX="0" frameY="0" frameWidth="2367" frameHeight="299" />
+<SubTexture name="donate white0004" x="4734" y="299" width="2367" height="299" frameX="0" frameY="0" frameWidth="2367" frameHeight="299" />
+<SubTexture name="donate white0005" x="0" y="598" width="2367" height="299" frameX="0" frameY="0" frameWidth="2367" frameHeight="299" />
+<SubTexture name="donate white0006" x="2367" y="598" width="2367" height="299" frameX="0" frameY="0" frameWidth="2367" frameHeight="299" />
+<SubTexture name="donate white0007" x="4734" y="598" width="2367" height="299" frameX="0" frameY="0" frameWidth="2367" frameHeight="299" />
+</TextureAtlas>

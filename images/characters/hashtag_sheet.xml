@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="hashtag_sheet.png"><SubTexture name="hashtag downPose0000" x="0" y="0" width="624" height="634" frameX="0" frameY="0" frameWidth="624" frameHeight="634" />
+<SubTexture name="hashtag downPose0001" x="624" y="0" width="624" height="634" frameX="0" frameY="0" frameWidth="624" frameHeight="634" />
+<SubTexture name="hashtag downPose0002" x="1248" y="0" width="624" height="634" frameX="0" frameY="0" frameWidth="624" frameHeight="634" />
+<SubTexture name="hashtag downPose0003" x="1872" y="0" width="624" height="634" frameX="0" frameY="0" frameWidth="624" frameHeight="634" />
+<SubTexture name="hashtag downPose0004" x="2496" y="0" width="624" height="634" frameX="0" frameY="0" frameWidth="624" frameHeight="634" />
+<SubTexture name="hashtag IDLE0000" x="0" y="634" width="388" height="732" frameX="0" frameY="0" frameWidth="388" frameHeight="732" />
+<SubTexture name="hashtag IDLE0001" x="388" y="634" width="388" height="732" frameX="0" frameY="0" frameWidth="388" frameHeight="732" />
+<SubTexture name="hashtag IDLE0002" x="776" y="634" width="388" height="732" frameX="0" frameY="0" frameWidth="388" frameHeight="732" />
+<SubTexture name="hashtag IDLE0003" x="1164" y="634" width="388" height="732" frameX="0" frameY="0" frameWidth="388" frameHeight="732" />
+<SubTexture name="hashtag IDLE0004" x="1552" y="634" width="388" height="732" frameX="0" frameY="0" frameWidth="388" frameHeight="732" />
+<SubTexture name="hashtag IDLE0005" x="0" y="1366" width="388" height="732" frameX="0" frameY="0" frameWidth="388" frameHeight="732" />
+<SubTexture name="hashtag IDLE0006" x="388" y="1366" width="388" height="732" frameX="0" frameY="0" frameWidth="388" frameHeight="732" />
+<SubTexture name="hashtag leftPose0000" x="776" y="1366" width="542" height="693" frameX="0" frameY="0" frameWidth="542" frameHeight="693" />
+<SubTexture name="hashtag leftPose0001" x="1318" y="1366" width="542" height="693" frameX="0" frameY="0" frameWidth="542" frameHeight="693" />
+<SubTexture name="hashtag leftPose0002" x="1860" y="1366" width="542" height="693" frameX="0" frameY="0" frameWidth="542" frameHeight="693" />
+<SubTexture name="hashtag leftPose0003" x="0" y="2098" width="542" height="693" frameX="0" frameY="0" frameWidth="542" frameHeight="693" />
+<SubTexture name="hashtag leftPose0004" x="542" y="2098" width="542" height="693" frameX="0" frameY="0" frameWidth="542" frameHeight="693" />
+<SubTexture name="hashtag rightPose0000" x="1084" y="2098" width="596" height="679" frameX="0" frameY="0" frameWidth="596" frameHeight="679" />
+<SubTexture name="hashtag rightPose0001" x="1680" y="2098" width="596" height="679" frameX="0" frameY="0" frameWidth="596" frameHeight="679" />
+<SubTexture name="hashtag rightPose0002" x="2276" y="2098" width="596" height="679" frameX="0" frameY="0" frameWidth="596" frameHeight="679" />
+<SubTexture name="hashtag rightPose0003" x="0" y="2791" width="596" height="679" frameX="0" frameY="0" frameWidth="596" frameHeight="679" />
+<SubTexture name="hashtag rightPose0004" x="596" y="2791" width="596" height="679" frameX="0" frameY="0" frameWidth="596" frameHeight="679" />
+<SubTexture name="hashtag upNote0000" x="1192" y="2791" width="364" height="753" frameX="0" frameY="0" frameWidth="364" frameHeight="753" />
+<SubTexture name="hashtag upNote0001" x="1556" y="2791" width="364" height="753" frameX="0" frameY="0" frameWidth="364" frameHeight="753" />
+<SubTexture name="hashtag upNote0002" x="1920" y="2791" width="364" height="753" frameX="0" frameY="0" frameWidth="364" frameHeight="753" />
+<SubTexture name="hashtag upNote0003" x="0" y="3544" width="364" height="753" frameX="0" frameY="0" frameWidth="364" frameHeight="753" />
+<SubTexture name="hashtag upNote0004" x="364" y="3544" width="364" height="753" frameX="0" frameY="0" frameWidth="364" frameHeight="753" />
+</TextureAtlas>

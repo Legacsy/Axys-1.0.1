@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="hashtag_Dialogue.png"><SubTexture name="hashtag_Dialogue normal0000" x="0" y="0" width="334" height="488" frameX="0" frameY="0" frameWidth="334" frameHeight="488" />
+<SubTexture name="hashtag_Dialogue intrigued0000" x="334" y="0" width="334" height="488" frameX="0" frameY="0" frameWidth="334" frameHeight="488" />
+<SubTexture name="hashtag_Dialogue pissed0000" x="0" y="488" width="334" height="488" frameX="0" frameY="0" frameWidth="334" frameHeight="488" />
+<SubTexture name="hashtag_Dialogue challenging0000" x="334" y="488" width="334" height="488" frameX="0" frameY="0" frameWidth="334" frameHeight="488" />
+</TextureAtlas>

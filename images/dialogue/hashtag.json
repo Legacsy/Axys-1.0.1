@@ -1,0 +1,63 @@
+{
+	"position": [
+		0,
+		50
+	],
+	"dialogue_pos": "left",
+	"scale": 1.3,
+	"image": "hashtag_Dialogue",
+	"animations": [
+		{
+			"idle_offsets": [
+				-140,
+				20
+			],
+			"anim": "normal",
+			"loop_offsets": [
+				-140,
+				20
+			],
+			"idle_name": "hashtag_Dialogue normal",
+			"loop_name": "hashtag_Dialogue normal"
+		},
+		{
+			"loop_name": "hashtag_Dialogue pissed",
+			"idle_offsets": [
+				-140,
+				20
+			],
+			"idle_name": "hashtag_Dialogue pissed",
+			"anim": "pissed",
+			"loop_offsets": [
+				-140,
+				20
+			]
+		},
+		{
+			"loop_name": "hashtag_Dialogue intrigued",
+			"idle_offsets": [
+				-140,
+				20
+			],
+			"idle_name": "hashtag_Dialogue intrigued",
+			"anim": "intrigued",
+			"loop_offsets": [
+				-140,
+				20
+			]
+		},
+		{
+			"loop_name": "hashtag_Dialogue challenging",
+			"idle_offsets": [
+				-140,
+				20
+			],
+			"idle_name": "hashtag_Dialogue challenging",
+			"anim": "challenging",
+			"loop_offsets": [
+				-140,
+				20
+			]
+		}
+	]
+}

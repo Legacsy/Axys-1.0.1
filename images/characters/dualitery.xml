@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="dualitery.png"><SubTexture name="dualitery idle0000" x="0" y="0" width="1107" height="676" frameX="0" frameY="0" frameWidth="1107" frameHeight="676" />
+<SubTexture name="dualitery idle0001" x="1107" y="0" width="1107" height="676" frameX="0" frameY="0" frameWidth="1107" frameHeight="676" />
+<SubTexture name="dualitery idle0002" x="2214" y="0" width="1107" height="676" frameX="0" frameY="0" frameWidth="1107" frameHeight="676" />
+<SubTexture name="dualitery idle0003" x="3321" y="0" width="1107" height="676" frameX="0" frameY="0" frameWidth="1107" frameHeight="676" />
+<SubTexture name="dualitery idle0004" x="0" y="676" width="1107" height="676" frameX="0" frameY="0" frameWidth="1107" frameHeight="676" />
+<SubTexture name="dualitery idle0005" x="1107" y="676" width="1107" height="676" frameX="0" frameY="0" frameWidth="1107" frameHeight="676" />
+<SubTexture name="dualitery upNOTE0000" x="2214" y="676" width="1107" height="676" frameX="0" frameY="0" frameWidth="1107" frameHeight="676" />
+<SubTexture name="dualitery upNOTE0001" x="3321" y="676" width="1107" height="676" frameX="0" frameY="0" frameWidth="1107" frameHeight="676" />
+<SubTexture name="dualitery upNOTE0002" x="0" y="1352" width="1107" height="676" frameX="0" frameY="0" frameWidth="1107" frameHeight="676" />
+<SubTexture name="dualitery rightNOTE0000" x="1107" y="1352" width="1107" height="676" frameX="0" frameY="0" frameWidth="1107" frameHeight="676" />
+<SubTexture name="dualitery rightNOTE0001" x="2214" y="1352" width="1107" height="676" frameX="0" frameY="0" frameWidth="1107" frameHeight="676" />
+<SubTexture name="dualitery rightNOTE0002" x="3321" y="1352" width="1107" height="676" frameX="0" frameY="0" frameWidth="1107" frameHeight="676" />
+<SubTexture name="dualitery downNOTE0000" x="0" y="2028" width="1107" height="676" frameX="0" frameY="0" frameWidth="1107" frameHeight="676" />
+<SubTexture name="dualitery downNOTE0001" x="1107" y="2028" width="1107" height="676" frameX="0" frameY="0" frameWidth="1107" frameHeight="676" />
+<SubTexture name="dualitery downNOTE0002" x="2214" y="2028" width="1107" height="676" frameX="0" frameY="0" frameWidth="1107" frameHeight="676" />
+<SubTexture name="dualitery leftNOTE0000" x="3321" y="2028" width="1107" height="676" frameX="0" frameY="0" frameWidth="1107" frameHeight="676" />
+<SubTexture name="dualitery leftNOTE0001" x="0" y="2704" width="1107" height="676" frameX="0" frameY="0" frameWidth="1107" frameHeight="676" />
+<SubTexture name="dualitery leftNOTE0002" x="1107" y="2704" width="1107" height="676" frameX="0" frameY="0" frameWidth="1107" frameHeight="676" />
+<SubTexture name="dualitery ATTACK0000" x="2214" y="2704" width="1107" height="676" frameX="0" frameY="0" frameWidth="1107" frameHeight="676" />
+<SubTexture name="dualitery ATTACK0001" x="3321" y="2704" width="1107" height="676" frameX="0" frameY="0" frameWidth="1107" frameHeight="676" />
+<SubTexture name="dualitery ATTACK0002" x="0" y="3380" width="1107" height="676" frameX="0" frameY="0" frameWidth="1107" frameHeight="676" />
+</TextureAtlas>

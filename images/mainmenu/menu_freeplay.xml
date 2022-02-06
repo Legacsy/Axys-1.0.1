@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="menu_freeplay.png"><SubTexture name="freeplay basic0000" x="0" y="0" width="2367" height="299" frameX="0" frameY="0" frameWidth="2367" frameHeight="299" />
+<SubTexture name="freeplay white0000" x="2367" y="0" width="2367" height="299" frameX="0" frameY="0" frameWidth="2367" frameHeight="299" />
+<SubTexture name="freeplay white0001" x="4734" y="0" width="2367" height="299" frameX="0" frameY="0" frameWidth="2367" frameHeight="299" />
+<SubTexture name="freeplay white0002" x="0" y="299" width="2367" height="299" frameX="0" frameY="0" frameWidth="2367" frameHeight="299" />
+<SubTexture name="freeplay white0003" x="2367" y="299" width="2367" height="299" frameX="0" frameY="0" frameWidth="2367" frameHeight="299" />
+<SubTexture name="freeplay white0004" x="4734" y="299" width="2367" height="299" frameX="0" frameY="0" frameWidth="2367" frameHeight="299" />
+<SubTexture name="freeplay white0005" x="0" y="598" width="2367" height="299" frameX="0" frameY="0" frameWidth="2367" frameHeight="299" />
+<SubTexture name="freeplay white0006" x="2367" y="598" width="2367" height="299" frameX="0" frameY="0" frameWidth="2367" frameHeight="299" />
+<SubTexture name="freeplay white0007" x="4734" y="598" width="2367" height="299" frameX="0" frameY="0" frameWidth="2367" frameHeight="299" />
+</TextureAtlas>
